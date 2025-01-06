@@ -1,1 +1,1 @@
-# AgentEstoque
+# Agente de Estoque com IA
